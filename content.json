@@ -1,0 +1,99 @@
+{
+  "preview": true,
+  "site": {
+    "companyName": "北京创锐弘科技术有限公司",
+    "logo": "",
+    "intro": "",
+    "address": "",
+    "contactEmail": "jd_joyrobot@jd.com",
+    "brandColor": "#F6740C"
+  },
+  "home": {
+    "heroTitle": [
+      "让机器人",
+      "走进你的",
+      "每一天。"
+    ],
+    "heroDescription": "探索机器人与生活的更多可能。让未来的想象，慢慢成为身边的日常。",
+    "heroImage": "/assets/robot-hero.png",
+    "heroVideo": "",
+    "values": [],
+    "scenarios": [],
+    "previewValues": [
+      {
+        "title": "陪伴，更近一点。",
+        "description": "从一次自然的交流开始，探索人与机器人的相处方式。",
+        "label": "陪伴交流"
+      },
+      {
+        "title": "日常，轻松一点。",
+        "description": "从生活里的小事出发，思考机器人可以提供怎样的协助。",
+        "label": "生活协助"
+      },
+      {
+        "title": "连接，多一点可能。",
+        "description": "探索机器人与配套 APP 之间，自然、清晰的使用体验。",
+        "label": "便捷连接"
+      }
+    ],
+    "previewScenarios": [
+      {
+        "title": "一起，度过平常的一天。",
+        "description": "从居家日常出发，探索机器人如何参与生活。具体使用场景与产品能力，将在确认后陆续与您见面。",
+        "label": "居家日常",
+        "image": "/assets/scene-home.png",
+        "alt": "居家日常：老人与机器人剪影在客厅交流"
+      },
+      {
+        "title": "生活的连接，不止面对面。",
+        "description": "围绕机器人与配套 APP 的协作，探索更便捷的使用方式。实际功能、适配型号与使用条件将在后续公布。",
+        "label": "随身连接",
+        "image": "/assets/scene-connected.png",
+        "alt": "随身连接：机器人剪影陪伴用户与宠物互动"
+      }
+    ],
+    "heroImageAlt": "机器人黑色剪影，胸前写有敬请期待"
+  },
+  "productTeasers": [],
+  "app": {
+    "name": "京小宝",
+    "icon": "",
+    "description": "",
+    "features": [],
+    "screenshots": [],
+    "supportedModels": []
+  },
+  "downloads": {
+    "ios": {
+      "status": "unavailable",
+      "url": ""
+    },
+    "android": {
+      "status": "unavailable",
+      "url": ""
+    }
+  },
+  "careers": {
+    "intro": "",
+    "image": "",
+    "generalApplicationEnabled": false,
+    "generalEmail": "",
+    "jobs": []
+  },
+  "footer": {
+    "privacyUrl": "",
+    "registrationText": "",
+    "registrationUrl": ""
+  },
+  "copy": {
+    "previewLabel": "设计预览 · 品牌与产品资料待确认",
+    "heroAsset": "机器人主视觉待提供",
+    "heroAssetNote": "将使用经确认的产品原图，完整呈现机器人外观。",
+    "valueNote": "以下为文案方向预览，产品能力待确认。",
+    "scenarioNote": "场景示意 · 具体产品能力待公布",
+    "companyEmpty": "公司介绍即将公布。",
+    "appEmptyName": "机器人配套 APP",
+    "appEmptyDescription": "APP 功能介绍即将公布。",
+    "teamEmpty": "团队与工作介绍即将公布。"
+  }
+}

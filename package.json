@@ -1,0 +1,1 @@
+{"name":"robot-everyday","private":true,"type":"module","scripts":{"build":"node build.mjs","start":"python3 -m http.server 3000 --directory dist"},"dependencies":{"qrcode":"1.5.4"}}
